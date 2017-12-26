@@ -1,0 +1,6 @@
+framework module SkyLineSDK {
+  umbrella header "SkyLineSDK.h"
+
+  export *
+  module * { export * }
+}
