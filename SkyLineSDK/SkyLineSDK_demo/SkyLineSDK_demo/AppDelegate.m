@@ -11,7 +11,7 @@
 #import <SkyLineSDK/SkyLineSDK.h>
 
 #define APP_ID @"150650558833901"
-//SDK接口地址（固定值）
+//SDK接口地址（固定值的）
 #define SERVER_HEADER @"http://120.25.192.67/skylinesdkserver/api"
 //SDK公钥 （固定值）
 #define PUBLIC_KEY @"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCeFgpxWK0Qj1JCIH/Fy0ZvLwTLfLe0vpKtRQ+uk2T7GuclkAZ7pJwYoztYJPSL4LmQYLFRWDewmjBWFrwYIXtOgqgM9W/SH4cFfLZbeEoYe/IcrJc/EP7iNCtDGDQN1mxv6dU+UTm48h74Cc013dlyriWssFowJUeFAc/9Kf/ILwIDAQAB"
