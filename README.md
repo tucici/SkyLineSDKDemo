@@ -1,2 +1,2 @@
 # SkyLineSDKDemo
-天际游戏sdk_demo
+游戏sdk_demo
